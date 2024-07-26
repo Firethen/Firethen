@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Firethen
-- 👀 I’m interested in VisionAI.
+- 👀 I’m interested in Full Stack development.
 - 🌱 I’m currently learning ...fundamental Computer Science
 - 💞️ I’m looking to collaborate on machine learning.
 
