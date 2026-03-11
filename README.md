@@ -1,12 +1,10 @@
 <h1>Firethen</h1>
 
-<p>한양대 컴퓨터소프트웨어학부 재학</p>
+<p> M.S. graduate student in POSTECH </p>
 
 <h3>활동</h3>
 <p>
-GDSC Hayang core 23-24<br>
-2024 Google MachineLearning Bootcamp 수료<br>
-MLsys undergraduate st(24.09~25.01)
+-later uploaded
 </p>
 
 
